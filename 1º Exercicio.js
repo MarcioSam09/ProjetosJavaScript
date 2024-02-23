@@ -11,5 +11,3 @@ numeros.forEach(numero => {
         console.log("O número " + numero + " é zero.");
     }
 });
-
-"marciocabeçudo"
